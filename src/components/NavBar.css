@@ -1,0 +1,7 @@
+.navbar-nav .nav-link.active{
+    font-weight: 800;
+}
+
+.nav-select option:focus-visible{
+    background-color: aqua;
+}

@@ -1,0 +1,23 @@
+.dropdown .dropdown-toggle::after {
+    display: none;
+}
+
+.hstack .divh {
+    /* position: absolute; */
+    border-left: 3px solid #5e5e5e;
+  height: 60px;
+    
+}
+
+.nav .nav-item .nav-link.active{
+    background-color: white;
+    color: #000;
+    font-weight: bold;
+}
+
+.nav .nav-item .nav-link{
+    background-color: #5e5e5e;
+    color:  rgb(231, 222, 222);
+    font-weight: bold;
+
+}
